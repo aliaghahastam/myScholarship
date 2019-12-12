@@ -14,9 +14,7 @@ public class AuthenticationService {
         return authenticationService;
     }
 
-    private AuthenticationService() {
-
-    }
+    private AuthenticationService() { }
 
     public void setLoginUser(User user) {
         this.loginUser = user;

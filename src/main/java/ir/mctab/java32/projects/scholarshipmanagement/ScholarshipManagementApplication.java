@@ -19,7 +19,7 @@ public class ScholarshipManagementApplication {
         Scanner scanner = new Scanner(System.in);
         String command = "";
         while (! command.equals("exit")) {
-            System.out.println("exit,login,suplist,manlist,supaccept,manaccept,supreject,manreject,stufind,request,unilist,logout");
+            System.out.println("exit,login,suplist,manlist,supaccept,manaccept,supreject,manreject,stulist,request,unilist,logout");
             System.out.println("what do you want? ");
             command = scanner.nextLine();
             // Login
@@ -106,7 +106,9 @@ public class ScholarshipManagementApplication {
             }
             //requestByStudent
             if (command.equals("request")) {
-                RequestScholarshipByStudentUseCase requestScholarshipByStudentUseCase = new RequestScholarshipByStudentUseCaseImpl();
+                RequestScholarshipByStudentUseCase requestScholarshipByStudentUseCase
+                        = new RequestScholarshipByStudentUseCaseImpl();
+
                 boolean x = requestScholarshipByStudentUseCase.request();
                 if(x){
                     System.out.println("Done.");

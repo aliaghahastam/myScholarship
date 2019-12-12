@@ -19,7 +19,7 @@ public class RequestScholarshipByStudentUseCaseImpl implements RequestScholarshi
 
         User loginUser = AuthenticationService.getInstance().getLoginUser();
         if (loginUser != null) {
-            if (loginUser.getRole().equals("Student")) {
+            if (loginUser.getRole().equals("student")) {
                 Scanner scanner = new Scanner(System.in);
                 System.out.println("Enter id:");
                 Long id = scanner.nextLong();

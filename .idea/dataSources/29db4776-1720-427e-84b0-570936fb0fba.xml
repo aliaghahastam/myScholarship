@@ -1399,59 +1399,51 @@
       <ColNames>id</ColNames>
       <Primary>1</Primary>
     </key>
-    <foreign-key id="350" parent="333" name="scholarship_to_log_fk">
-      <ColNames>id</ColNames>
-      <RefSchemaName>scholarshipmanagement</RefSchemaName>
-      <RefTableName>scholarship_log</RefTableName>
-      <RefColNames>id_scholarship_log</RefColNames>
-      <OnUpdate>cascade</OnUpdate>
-      <OnDelete>cascade</OnDelete>
-    </foreign-key>
-    <column id="351" parent="334" name="id_scholarship_log">
+    <column id="350" parent="334" name="id">
       <Position>1</Position>
       <DataType>int(11)|0s</DataType>
       <NotNull>1</NotNull>
       <SequenceIdentity>1</SequenceIdentity>
       <ColumnKind>normal</ColumnKind>
     </column>
-    <column id="352" parent="334" name="date_scholarship_log">
+    <column id="351" parent="334" name="date">
       <Position>2</Position>
-      <DataType>date|0s</DataType>
+      <DataType>varchar(50)|0s</DataType>
       <ColumnKind>normal</ColumnKind>
     </column>
-    <column id="353" parent="334" name="userid_scholarship_log">
+    <column id="352" parent="334" name="Scholarshipid">
       <Position>3</Position>
       <DataType>int(11)|0s</DataType>
       <ColumnKind>normal</ColumnKind>
     </column>
-    <key id="354" parent="334" name="PRIMARY">
+    <key id="353" parent="334" name="PRIMARY">
       <NameSurrogate>1</NameSurrogate>
-      <ColNames>id_scholarship_log</ColNames>
+      <ColNames>id</ColNames>
       <Primary>1</Primary>
     </key>
-    <column id="355" parent="335" name="id">
+    <column id="354" parent="335" name="id">
       <Position>1</Position>
       <DataType>int(11)|0s</DataType>
       <NotNull>1</NotNull>
       <SequenceIdentity>1</SequenceIdentity>
       <ColumnKind>normal</ColumnKind>
     </column>
-    <column id="356" parent="335" name="username">
+    <column id="355" parent="335" name="username">
       <Position>2</Position>
       <DataType>varchar(50)|0s</DataType>
       <ColumnKind>normal</ColumnKind>
     </column>
-    <column id="357" parent="335" name="password">
+    <column id="356" parent="335" name="password">
       <Position>3</Position>
       <DataType>varchar(50)|0s</DataType>
       <ColumnKind>normal</ColumnKind>
     </column>
-    <column id="358" parent="335" name="role">
+    <column id="357" parent="335" name="role">
       <Position>4</Position>
       <DataType>varchar(50)|0s</DataType>
       <ColumnKind>normal</ColumnKind>
     </column>
-    <key id="359" parent="335" name="PRIMARY">
+    <key id="358" parent="335" name="PRIMARY">
       <NameSurrogate>1</NameSurrogate>
       <ColNames>id</ColNames>
       <Primary>1</Primary>

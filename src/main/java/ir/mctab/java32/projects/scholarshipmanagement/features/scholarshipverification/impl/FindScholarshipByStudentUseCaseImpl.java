@@ -21,7 +21,7 @@ public class FindScholarshipByStudentUseCaseImpl implements FindScholarshipByStu
         User loginUser = AuthenticationService.getInstance().getLoginUser();
         Scholarship scholarship=null;
         if (loginUser != null) {
-            if (loginUser.getRole().equals("Student")) {
+            if (loginUser.getRole().equals("student")) {
                 // connection
                 Connection connection = null;
                 try {

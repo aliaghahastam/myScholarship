@@ -146,20 +146,20 @@ public class Scholarship {
 
     @Override
     public String toString() {
-        return "Scholarship{" +
+        return "\nScholarship{" +
                 "id=" + id +
                 ", status='" + status + '\'' +
                 ", name='" + name + '\'' +
                 ", family='" + family + '\'' +
                 ", nationalCode='" + nationalCode + '\'' +
-                ", lastUni='" + lastUni + '\'' +
+                ", \nlastUni='" + lastUni + '\'' +
                 ", lastDegree='" + lastDegree + '\'' +
                 ", lastField='" + lastField + '\'' +
                 ", lastScore=" + lastScore +
-                ", applyUni='" + applyUni + '\'' +
+                ", \napplyUni='" + applyUni + '\'' +
                 ", applyDegree='" + applyDegree + '\'' +
                 ", applyField='" + applyField + '\'' +
                 ", applyDate='" + applyDate + '\'' +
-                '}';
+                '}'+"\n";
     }
 }

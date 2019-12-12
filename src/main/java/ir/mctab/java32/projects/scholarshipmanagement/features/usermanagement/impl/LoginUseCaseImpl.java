@@ -32,8 +32,10 @@ public class LoginUseCaseImpl implements LoginUseCase {
             }
         } catch (ClassNotFoundException e) {
             e.printStackTrace();
+
         } catch (SQLException e) {
             e.printStackTrace();
+
         }
         // return result
         return null;

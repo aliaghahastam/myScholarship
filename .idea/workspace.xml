@@ -2,52 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bb4582dd-9812-4ce4-adbd-1afd0c48a039" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/29db4776-1720-427e-84b0-570936fb0fba.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/29db4776-1720-427e-84b0-570936fb0fba.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/ir/mctab/java32/projects/scholarshipmanagement/ScholarshipManagementApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ir/mctab/java32/projects/scholarshipmanagement/ScholarshipManagementApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ir/mctab/java32/projects/scholarshipmanagement/core/config/DatabaseConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ir/mctab/java32/projects/scholarshipmanagement/core/config/DatabaseConfig.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ir/mctab/java32/projects/scholarshipmanagement/features/scholarshipverification/impl/AcceptScholarshipByManagerUseCaseImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ir/mctab/java32/projects/scholarshipmanagement/features/scholarshipverification/impl/AcceptScholarshipByManagerUseCaseImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ir/mctab/java32/projects/scholarshipmanagement/core/share/AuthenticationService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ir/mctab/java32/projects/scholarshipmanagement/core/share/AuthenticationService.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/ir/mctab/java32/projects/scholarshipmanagement/features/scholarshipverification/impl/FindScholarshipByManagerUseCaseImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ir/mctab/java32/projects/scholarshipmanagement/features/scholarshipverification/impl/FindScholarshipByManagerUseCaseImpl.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/ir/mctab/java32/projects/scholarshipmanagement/features/scholarshipverification/impl/FindScholarshipByStudentUseCaseImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ir/mctab/java32/projects/scholarshipmanagement/features/scholarshipverification/impl/FindScholarshipByStudentUseCaseImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ir/mctab/java32/projects/scholarshipmanagement/features/scholarshipverification/impl/FindScholarshipByUniversityUseCaseImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ir/mctab/java32/projects/scholarshipmanagement/features/scholarshipverification/impl/FindScholarshipByUniversityUseCaseImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ir/mctab/java32/projects/scholarshipmanagement/features/scholarshipverification/impl/RejectScholarshipByManagerUseCaseImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ir/mctab/java32/projects/scholarshipmanagement/features/scholarshipverification/impl/RejectScholarshipByManagerUseCaseImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ir/mctab/java32/projects/scholarshipmanagement/features/scholarshipverification/impl/RejectScholarshipBySupervisorUseCaseImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ir/mctab/java32/projects/scholarshipmanagement/features/scholarshipverification/impl/RejectScholarshipBySupervisorUseCaseImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ir/mctab/java32/projects/scholarshipmanagement/features/scholarshipverification/impl/FindScholarshipBySupervisorUseCaseImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ir/mctab/java32/projects/scholarshipmanagement/features/scholarshipverification/impl/FindScholarshipBySupervisorUseCaseImpl.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/ir/mctab/java32/projects/scholarshipmanagement/features/scholarshipverification/impl/RequestScholarshipByStudentUseCaseImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ir/mctab/java32/projects/scholarshipmanagement/features/scholarshipverification/impl/RequestScholarshipByStudentUseCaseImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ir/mctab/java32/projects/scholarshipmanagement/features/scholarshipverification/usecases/AcceptScholarshipByManagerUseCase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ir/mctab/java32/projects/scholarshipmanagement/features/scholarshipverification/usecases/AcceptScholarshipByManagerUseCase.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ir/mctab/java32/projects/scholarshipmanagement/features/scholarshipverification/usecases/FindScholarshipByManagerUseCase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ir/mctab/java32/projects/scholarshipmanagement/features/scholarshipverification/usecases/FindScholarshipByManagerUseCase.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ir/mctab/java32/projects/scholarshipmanagement/features/scholarshipverification/usecases/FindScholarshipByStudentUseCase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ir/mctab/java32/projects/scholarshipmanagement/features/scholarshipverification/usecases/FindScholarshipByStudentUseCase.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ir/mctab/java32/projects/scholarshipmanagement/features/scholarshipverification/usecases/FindScholarshipByUniversityUseCase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ir/mctab/java32/projects/scholarshipmanagement/features/scholarshipverification/usecases/FindScholarshipByUniversityUseCase.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ir/mctab/java32/projects/scholarshipmanagement/features/scholarshipverification/usecases/RejectScholarshipByManagerUseCase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ir/mctab/java32/projects/scholarshipmanagement/features/scholarshipverification/usecases/RejectScholarshipByManagerUseCase.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ir/mctab/java32/projects/scholarshipmanagement/features/scholarshipverification/usecases/RejectScholarshipBySupervisorUseCase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ir/mctab/java32/projects/scholarshipmanagement/features/scholarshipverification/usecases/RejectScholarshipBySupervisorUseCase.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ir/mctab/java32/projects/scholarshipmanagement/features/scholarshipverification/usecases/RequestScholarshipByStudentUseCase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ir/mctab/java32/projects/scholarshipmanagement/features/scholarshipverification/usecases/RequestScholarshipByStudentUseCase.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/ir/mctab/java32/projects/scholarshipmanagement/features/usermanagement/impl/LoginUseCaseImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ir/mctab/java32/projects/scholarshipmanagement/features/usermanagement/impl/LoginUseCaseImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ir/mctab/java32/projects/scholarshipmanagement/features/usermanagement/usecases/LogoutUseCase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ir/mctab/java32/projects/scholarshipmanagement/features/usermanagement/usecases/LogoutUseCase.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ir/mctab/java32/projects/scholarshipmanagement/ScholarshipManagementApplication.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ir/mctab/java32/projects/scholarshipmanagement/ScholarshipManagementApplication.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ir/mctab/java32/projects/scholarshipmanagement/core/annotations/Entity.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ir/mctab/java32/projects/scholarshipmanagement/core/annotations/Entity.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ir/mctab/java32/projects/scholarshipmanagement/core/annotations/Id.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ir/mctab/java32/projects/scholarshipmanagement/core/annotations/Id.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ir/mctab/java32/projects/scholarshipmanagement/core/annotations/Service.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ir/mctab/java32/projects/scholarshipmanagement/core/annotations/Service.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ir/mctab/java32/projects/scholarshipmanagement/core/annotations/UseCase.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ir/mctab/java32/projects/scholarshipmanagement/core/annotations/UseCase.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ir/mctab/java32/projects/scholarshipmanagement/core/config/DatabaseConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ir/mctab/java32/projects/scholarshipmanagement/core/config/DatabaseConfig.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ir/mctab/java32/projects/scholarshipmanagement/core/share/AuthenticationService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ir/mctab/java32/projects/scholarshipmanagement/core/share/AuthenticationService.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ir/mctab/java32/projects/scholarshipmanagement/features/scholarshipverification/impl/AcceptScholarshipByManagerUseCaseImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ir/mctab/java32/projects/scholarshipmanagement/features/scholarshipverification/impl/AcceptScholarshipByManagerUseCaseImpl.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ir/mctab/java32/projects/scholarshipmanagement/features/scholarshipverification/impl/FindScholarshipBySupervisorUseCaseImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ir/mctab/java32/projects/scholarshipmanagement/features/scholarshipverification/impl/FindScholarshipBySupervisorUseCaseImpl.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ir/mctab/java32/projects/scholarshipmanagement/features/scholarshipverification/usecases/AcceptScholarshipByManagerUseCase.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ir/mctab/java32/projects/scholarshipmanagement/features/scholarshipverification/usecases/AcceptScholarshipByManagerUseCase.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ir/mctab/java32/projects/scholarshipmanagement/features/scholarshipverification/usecases/AcceptScholarshipBySupervisorUsecase.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ir/mctab/java32/projects/scholarshipmanagement/features/scholarshipverification/usecases/AcceptScholarshipBySupervisorUsecase.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ir/mctab/java32/projects/scholarshipmanagement/features/scholarshipverification/usecases/FindScholarshipByManagerUseCase.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ir/mctab/java32/projects/scholarshipmanagement/features/scholarshipverification/usecases/FindScholarshipByManagerUseCase.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ir/mctab/java32/projects/scholarshipmanagement/features/scholarshipverification/usecases/FindScholarshipByStudentUseCase.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ir/mctab/java32/projects/scholarshipmanagement/features/scholarshipverification/usecases/FindScholarshipByStudentUseCase.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ir/mctab/java32/projects/scholarshipmanagement/features/scholarshipverification/usecases/FindScholarshipBySupervisorUseCase.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ir/mctab/java32/projects/scholarshipmanagement/features/scholarshipverification/usecases/FindScholarshipBySupervisorUseCase.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ir/mctab/java32/projects/scholarshipmanagement/features/scholarshipverification/usecases/FindScholarshipByUniversityUseCase.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ir/mctab/java32/projects/scholarshipmanagement/features/scholarshipverification/usecases/FindScholarshipByUniversityUseCase.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ir/mctab/java32/projects/scholarshipmanagement/features/scholarshipverification/usecases/RejectScholarshipByManagerUseCase.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ir/mctab/java32/projects/scholarshipmanagement/features/scholarshipverification/usecases/RejectScholarshipByManagerUseCase.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ir/mctab/java32/projects/scholarshipmanagement/features/scholarshipverification/usecases/RejectScholarshipBySupervisorUseCase.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ir/mctab/java32/projects/scholarshipmanagement/features/scholarshipverification/usecases/RejectScholarshipBySupervisorUseCase.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ir/mctab/java32/projects/scholarshipmanagement/features/scholarshipverification/usecases/RequestScholarshipByStudentUseCase.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ir/mctab/java32/projects/scholarshipmanagement/features/scholarshipverification/usecases/RequestScholarshipByStudentUseCase.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ir/mctab/java32/projects/scholarshipmanagement/features/usermanagement/impl/LoginUseCaseImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ir/mctab/java32/projects/scholarshipmanagement/features/usermanagement/impl/LoginUseCaseImpl.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ir/mctab/java32/projects/scholarshipmanagement/features/usermanagement/usecases/LoginUseCase.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ir/mctab/java32/projects/scholarshipmanagement/features/usermanagement/usecases/LoginUseCase.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ir/mctab/java32/projects/scholarshipmanagement/features/usermanagement/usecases/LogoutUseCase.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ir/mctab/java32/projects/scholarshipmanagement/features/usermanagement/usecases/LogoutUseCase.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ir/mctab/java32/projects/scholarshipmanagement/model/Scholarship.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ir/mctab/java32/projects/scholarshipmanagement/model/Scholarship.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ir/mctab/java32/projects/scholarshipmanagement/model/User.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ir/mctab/java32/projects/scholarshipmanagement/model/User.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ir/mctab/java32/projects/scholarshipmanagement/model/Scholarship.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ir/mctab/java32/projects/scholarshipmanagement/model/Scholarship.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -83,6 +47,27 @@
         <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
         <item name="scholarshipmanagement: schema" type="76f4a085:MysqlImplModel$Schema" />
       </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="scholarshipmanagement: schema" type="76f4a085:MysqlImplModel$Schema" />
+        <item name="scholarship: table" type="285a2a93:MysqlImplModel$Table" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="scholarshipmanagement: schema" type="76f4a085:MysqlImplModel$Schema" />
+        <item name="scholarship_log: table" type="285a2a93:MysqlImplModel$Table" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="scholarshipmanagement: schema" type="76f4a085:MysqlImplModel$Schema" />
+        <item name="user: table" type="285a2a93:MysqlImplModel$Table" />
+      </path>
     </expand>
     <select />
   </component>
@@ -91,8 +76,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/ir/mctab/java32/projects/scholarshipmanagement/ScholarshipManagementApplication.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="113">
-              <caret line="31" selection-start-line="31" selection-end-line="31" />
+            <state relative-caret-position="128">
+              <caret line="111" selection-start-line="111" selection-end-line="111" />
             </state>
           </provider>
         </entry>
@@ -100,63 +85,20 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/ir/mctab/java32/projects/scholarshipmanagement/features/scholarshipverification/impl/RequestScholarshipByStudentUseCaseImpl.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="93">
-              <caret line="68" column="80" lean-forward="true" selection-start-line="68" selection-start-column="80" selection-end-line="68" selection-end-column="80" />
+            <state relative-caret-position="325">
+              <caret line="77" lean-forward="true" selection-start-line="77" selection-end-line="77" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/ir/mctab/java32/projects/scholarshipmanagement/features/usermanagement/impl/LogoutUseCaseImpl.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="103">
-              <caret line="6" column="33" lean-forward="true" selection-start-line="6" selection-start-column="33" selection-end-line="6" selection-end-column="33" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/ir/mctab/java32/projects/scholarshipmanagement/features/usermanagement/usecases/LogoutUseCase.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="57">
-              <caret line="3" column="4" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="4" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/ir/mctab/java32/projects/scholarshipmanagement/features/usermanagement/impl/LoginUseCaseImpl.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/ir/mctab/java32/projects/scholarshipmanagement/features/scholarshipverification/usecases/DashboardByManager.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="40">
-              <caret line="29" column="18" lean-forward="true" selection-start-line="29" selection-start-column="18" selection-end-line="29" selection-end-column="18" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/ir/mctab/java32/projects/scholarshipmanagement/model/User.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="608">
-              <caret line="45" column="18" selection-start-line="45" selection-start-column="18" selection-end-line="45" selection-end-column="18" />
-              <folding>
-                <element signature="e#1007#1008#0" expanded="true" />
-                <element signature="e#1034#1035#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/ir/mctab/java32/projects/scholarshipmanagement/core/config/DatabaseConfig.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="171">
-              <caret line="11" column="32" selection-start-line="11" selection-start-column="32" selection-end-line="11" selection-end-column="32" />
+            <state relative-caret-position="38">
+              <caret line="2" column="33" lean-forward="true" selection-start-line="2" selection-start-column="33" selection-end-line="2" selection-end-column="33" />
             </state>
           </provider>
         </entry>
@@ -177,8 +119,6 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/src/main/java/ir/mctab/java32/projects/scholarshipmanagement/core/config/DatabaseConfig.java" />
-        <option value="$PROJECT_DIR$/src/main/java/ir/mctab/java32/projects/scholarshipmanagement/features/scholarshipverification/impl/FindScholarshipBySupervisorUseCaseImpl.java" />
-        <option value="$PROJECT_DIR$/src/main/java/ir/mctab/java32/projects/scholarshipmanagement/features/scholarshipverification/impl/FindScholarshipByManagerUseCaseImpl.java" />
         <option value="$PROJECT_DIR$/src/main/java/ir/mctab/java32/projects/scholarshipmanagement/features/scholarshipverification/usecases/FindScholarshipByManagerUseCase.java" />
         <option value="$PROJECT_DIR$/src/main/java/ir/mctab/java32/projects/scholarshipmanagement/features/scholarshipverification/impl/AcceptScholarshipByManagerUseCaseImpl.java" />
         <option value="$PROJECT_DIR$/src/main/java/ir/mctab/java32/projects/scholarshipmanagement/features/scholarshipverification/usecases/AcceptScholarshipByManagerUseCase.java" />
@@ -187,21 +127,25 @@
         <option value="$PROJECT_DIR$/src/main/java/ir/mctab/java32/projects/scholarshipmanagement/features/scholarshipverification/usecases/RejectScholarshipByManagerUseCase.java" />
         <option value="$PROJECT_DIR$/src/main/java/ir/mctab/java32/projects/scholarshipmanagement/features/scholarshipverification/usecases/RejectScholarshipBySupervisorUseCase.java" />
         <option value="$PROJECT_DIR$/src/main/java/ir/mctab/java32/projects/scholarshipmanagement/features/scholarshipverification/usecases/FindScholarshipByStudentUseCase.java" />
-        <option value="$PROJECT_DIR$/src/main/java/ir/mctab/java32/projects/scholarshipmanagement/features/scholarshipverification/impl/FindScholarshipByStudentUseCaseImpl.java" />
         <option value="$PROJECT_DIR$/src/main/java/ir/mctab/java32/projects/scholarshipmanagement/features/scholarshipverification/usecases/RequestScholarshipByStudentUseCase.java" />
         <option value="$PROJECT_DIR$/src/main/java/ir/mctab/java32/projects/scholarshipmanagement/features/usermanagement/usecases/LogoutUseCase.java" />
         <option value="$PROJECT_DIR$/src/main/java/ir/mctab/java32/projects/scholarshipmanagement/features/scholarshipverification/usecases/FindScholarshipByUniversityUseCase.java" />
         <option value="$PROJECT_DIR$/src/main/java/ir/mctab/java32/projects/scholarshipmanagement/features/scholarshipverification/impl/FindScholarshipByUniversityUseCaseImpl.java" />
         <option value="$PROJECT_DIR$/src/main/java/ir/mctab/java32/projects/scholarshipmanagement/features/usermanagement/impl/LogoutUseCaseImpl.java" />
-        <option value="$PROJECT_DIR$/src/main/java/ir/mctab/java32/projects/scholarshipmanagement/ScholarshipManagementApplication.java" />
         <option value="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" />
-        <option value="$PROJECT_DIR$/src/main/java/ir/mctab/java32/projects/scholarshipmanagement/features/scholarshipverification/impl/RequestScholarshipByStudentUseCaseImpl.java" />
         <option value="$PROJECT_DIR$/src/main/java/ir/mctab/java32/projects/scholarshipmanagement/features/usermanagement/impl/LoginUseCaseImpl.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ir/mctab/java32/projects/scholarshipmanagement/core/share/AuthenticationService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ir/mctab/java32/projects/scholarshipmanagement/ScholarshipManagementApplication.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ir/mctab/java32/projects/scholarshipmanagement/features/scholarshipverification/impl/FindScholarshipByStudentUseCaseImpl.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ir/mctab/java32/projects/scholarshipmanagement/features/scholarshipverification/impl/FindScholarshipByManagerUseCaseImpl.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ir/mctab/java32/projects/scholarshipmanagement/features/scholarshipverification/impl/FindScholarshipBySupervisorUseCaseImpl.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ir/mctab/java32/projects/scholarshipmanagement/model/Scholarship.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ir/mctab/java32/projects/scholarshipmanagement/features/scholarshipverification/impl/RequestScholarshipByStudentUseCaseImpl.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="31" />
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="19" />
     <option name="y" value="13" />
     <option name="width" value="1284" />
     <option name="height" value="728" />
@@ -213,6 +157,7 @@
     </navigator>
     <panes>
       <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -300,20 +245,6 @@
               <item name="projects" type="462c0819:PsiDirectoryNode" />
               <item name="scholarshipmanagement" type="462c0819:PsiDirectoryNode" />
               <item name="core" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="sholarship-management" type="b2602c69:ProjectViewProjectNode" />
-              <item name="sholarship-management" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="ir" type="462c0819:PsiDirectoryNode" />
-              <item name="mctab" type="462c0819:PsiDirectoryNode" />
-              <item name="java32" type="462c0819:PsiDirectoryNode" />
-              <item name="projects" type="462c0819:PsiDirectoryNode" />
-              <item name="scholarshipmanagement" type="462c0819:PsiDirectoryNode" />
-              <item name="core" type="462c0819:PsiDirectoryNode" />
-              <item name="config" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="sholarship-management" type="b2602c69:ProjectViewProjectNode" />
@@ -447,14 +378,13 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="DatabaseDriversLRU" value="mysql" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1576131318908" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1576140344364" />
     <property name="database.console.LAST_STATE" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
@@ -506,17 +436,18 @@
       <workItem from="1576075958915" duration="1484000" />
       <workItem from="1576085708669" duration="8115000" />
       <workItem from="1576124857180" duration="7663000" />
+      <workItem from="1576133719213" duration="4552000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="17262000" />
+    <option name="totallyTimeSpent" value="21814000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1310" height="784" extended-state="7" />
+    <frame x="-8" y="-8" width="1319" height="784" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2872" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.426529" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Capture Tool" order="3" />
@@ -525,8 +456,8 @@
       <window_info id="Image Layers" order="6" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4984" weight="0.3297546" />
-      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.4984" visible="true" weight="0.398773" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4984" visible="true" weight="0.3297546" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.4984" weight="0.398773" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -543,13 +474,69 @@
       <window_info anchor="right" id="Maven" order="3" />
       <window_info anchor="right" id="Palette" order="4" />
       <window_info anchor="right" id="Capture Analysis" order="5" />
-      <window_info anchor="right" id="Database" order="6" weight="0.2304" />
-      <window_info anchor="right" id="Palette&#9;" order="7" />
-      <window_info anchor="right" id="Theme Preview" order="8" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info anchor="right" id="Theme Preview" order="7" />
+      <window_info anchor="right" id="Database" order="8" weight="0.33598095" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/ir/mctab/java32/projects/scholarshipmanagement/features/scholarshipverification/impl/RequestScholarshipByStudentUseCaseImpl.java</url>
+          <line>16</line>
+          <properties />
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/ir/mctab/java32/projects/scholarshipmanagement/features/scholarshipverification/impl/RequestScholarshipByStudentUseCaseImpl.java</url>
+          <line>19</line>
+          <properties />
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/ir/mctab/java32/projects/scholarshipmanagement/features/scholarshipverification/impl/RequestScholarshipByStudentUseCaseImpl.java</url>
+          <line>20</line>
+          <properties />
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/ir/mctab/java32/projects/scholarshipmanagement/features/scholarshipverification/impl/RequestScholarshipByStudentUseCaseImpl.java</url>
+          <line>21</line>
+          <properties />
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/ir/mctab/java32/projects/scholarshipmanagement/features/scholarshipverification/impl/RequestScholarshipByStudentUseCaseImpl.java</url>
+          <line>23</line>
+          <properties />
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/ir/mctab/java32/projects/scholarshipmanagement/features/scholarshipverification/impl/RequestScholarshipByStudentUseCaseImpl.java</url>
+          <line>24</line>
+          <properties />
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/ir/mctab/java32/projects/scholarshipmanagement/features/scholarshipverification/impl/RequestScholarshipByStudentUseCaseImpl.java</url>
+          <line>22</line>
+          <properties />
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/ir/mctab/java32/projects/scholarshipmanagement/features/scholarshipverification/impl/RequestScholarshipByStudentUseCaseImpl.java</url>
+          <line>17</line>
+          <properties class="ir.mctab.java32.projects.scholarshipmanagement.features.scholarshipverification.impl.RequestScholarshipByStudentUseCaseImpl" method="request">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
@@ -579,27 +566,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ir/mctab/java32/projects/scholarshipmanagement/features/scholarshipverification/impl/FindScholarshipByManagerUseCaseImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="154">
-          <caret line="22" column="32" lean-forward="true" selection-start-line="22" selection-start-column="32" selection-end-line="22" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/ir/mctab/java32/projects/scholarshipmanagement/features/scholarshipverification/usecases/FindScholarshipBySupervisorUseCase.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="133">
           <caret line="10" column="4" selection-start-line="10" selection-start-column="4" selection-end-line="10" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ir/mctab/java32/projects/scholarshipmanagement/features/scholarshipverification/impl/FindScholarshipBySupervisorUseCaseImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="266">
-          <caret line="25" column="28" lean-forward="true" selection-start-line="25" selection-start-column="28" selection-end-line="25" selection-end-column="28" />
-          <folding>
-            <element signature="e#984#997#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -641,23 +611,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ir/mctab/java32/projects/scholarshipmanagement/features/scholarshipverification/usecases/FindScholarshipByStudentUseCase.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="7" column="39" selection-start-line="7" selection-start-column="39" selection-end-line="7" selection-end-column="39" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ir/mctab/java32/projects/scholarshipmanagement/features/scholarshipverification/impl/FindScholarshipByStudentUseCaseImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="18" column="13" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/ir/mctab/java32/projects/scholarshipmanagement/features/scholarshipverification/usecases/FindScholarshipByUniversityUseCase.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="171">
@@ -675,15 +628,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ir/mctab/java32/projects/scholarshipmanagement/model/Scholarship.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="217">
-          <caret line="26" column="26" selection-start-line="26" selection-start-column="26" selection-end-line="26" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="das://29db4776-1720-427e-84b0-570936fb0fba/schema/scholarshipmanagement/table/scholarship_log" />
-    <entry file="das://29db4776-1720-427e-84b0-570936fb0fba/schema/scholarshipmanagement/table/scholarship" />
     <entry file="file://$PROJECT_DIR$/src/main/java/ir/mctab/java32/projects/scholarshipmanagement/features/scholarshipverification/usecases/RejectScholarshipBySupervisorUseCase.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="152">
@@ -698,31 +642,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="das://29db4776-1720-427e-84b0-570936fb0fba/schema/scholarshipmanagement/table/scholarship">
-      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
-        <state>
-          <filtering enabled="true" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="das://29db4776-1720-427e-84b0-570936fb0fba/schema/scholarshipmanagement/table/scholarship">
-      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
-        <state>
-          <filtering enabled="true" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="das://29db4776-1720-427e-84b0-570936fb0fba/schema/scholarshipmanagement/table/scholarship">
-      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
-        <state>
-          <filtering enabled="true" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="das://29db4776-1720-427e-84b0-570936fb0fba/schema/scholarshipmanagement/table/scholarship">
-      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
-        <state>
-          <filtering enabled="true" />
+    <entry file="jar://C:/Program Files (x86)/Java/jdk1.8.0_172/src.zip!/java/sql/Connection.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="137" column="22" selection-start-line="137" selection-start-column="22" selection-end-line="137" selection-end-column="22" />
         </state>
       </provider>
     </entry>
@@ -733,17 +656,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ir/mctab/java32/projects/scholarshipmanagement/model/User.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="608">
-          <caret line="45" column="18" selection-start-line="45" selection-start-column="18" selection-end-line="45" selection-end-column="18" />
-          <folding>
-            <element signature="e#1007#1008#0" expanded="true" />
-            <element signature="e#1034#1035#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="das://29db4776-1720-427e-84b0-570936fb0fba/schema/scholarshipmanagement/table/scholarship_log">
       <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
         <state>
@@ -751,66 +663,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="das://29db4776-1720-427e-84b0-570936fb0fba/schema/scholarshipmanagement/table/scholarship_log">
+    <entry file="das://29db4776-1720-427e-84b0-570936fb0fba/schema/scholarshipmanagement/table/user">
       <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
         <state>
           <filtering enabled="true" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="das://29db4776-1720-427e-84b0-570936fb0fba/schema/scholarshipmanagement/table/scholarship_log">
-      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
-        <state>
-          <filtering enabled="true" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="das://29db4776-1720-427e-84b0-570936fb0fba/schema/scholarshipmanagement/table/scholarship_log">
-      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
-        <state>
-          <filtering enabled="true" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ir/mctab/java32/projects/scholarshipmanagement/features/scholarshipverification/usecases/RequestScholarshipByStudentUseCase.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="6" column="29" selection-start-line="6" selection-start-column="29" selection-end-line="6" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ir/mctab/java32/projects/scholarshipmanagement/features/usermanagement/usecases/LoginUseCase.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ir/mctab/java32/projects/scholarshipmanagement/core/share/AuthenticationService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="380">
-          <caret line="20" column="16" selection-start-line="20" selection-start-column="16" selection-end-line="20" selection-end-column="16" />
-          <folding>
-            <element signature="e#580#581#0" expanded="true" />
-            <element signature="e#617#618#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ir/mctab/java32/projects/scholarshipmanagement/features/scholarshipverification/impl/RequestScholarshipByStudentUseCaseImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="93">
-          <caret line="68" column="80" lean-forward="true" selection-start-line="68" selection-start-column="80" selection-end-line="68" selection-end-column="80" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/ir/mctab/java32/projects/scholarshipmanagement/features/usermanagement/impl/LogoutUseCaseImpl.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="103">
-          <caret line="6" column="33" lean-forward="true" selection-start-line="6" selection-start-column="33" selection-end-line="6" selection-end-column="33" />
+        <state relative-caret-position="114">
+          <caret line="6" column="33" selection-start-line="6" selection-start-column="33" selection-end-line="6" selection-end-column="33" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -824,31 +687,127 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://C:/Program Files (x86)/Java/jdk1.8.0_172/src.zip!/java/sql/Connection.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/ir/mctab/java32/projects/scholarshipmanagement/features/usermanagement/usecases/LoginUseCase.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="19">
-          <caret line="137" column="22" selection-start-line="137" selection-start-column="22" selection-end-line="137" selection-end-column="22" />
+        <state relative-caret-position="95">
+          <caret line="5" column="9" selection-start-line="5" selection-start-column="9" selection-end-line="5" selection-end-column="9" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ir/mctab/java32/projects/scholarshipmanagement/ScholarshipManagementApplication.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/ir/mctab/java32/projects/scholarshipmanagement/core/share/AuthenticationService.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="113">
-          <caret line="31" selection-start-line="31" selection-end-line="31" />
+        <state relative-caret-position="57">
+          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+          <folding>
+            <element signature="e#620#621#0" expanded="true" />
+            <element signature="e#657#658#0" expanded="true" />
+            <element signature="e#691#692#0" expanded="true" />
+            <element signature="e#723#724#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="das://29db4776-1720-427e-84b0-570936fb0fba/schema/scholarshipmanagement/table/user">
+    <entry file="file://$PROJECT_DIR$/src/main/java/ir/mctab/java32/projects/scholarshipmanagement/features/usermanagement/impl/LoginUseCaseImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="18" column="57" selection-start-line="18" selection-start-column="57" selection-end-line="18" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://29db4776-1720-427e-84b0-570936fb0fba/schema/scholarshipmanagement/table/scholarship">
       <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
         <state>
           <filtering enabled="true" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ir/mctab/java32/projects/scholarshipmanagement/features/usermanagement/impl/LoginUseCaseImpl.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/ir/mctab/java32/projects/scholarshipmanagement/model/User.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="40">
-          <caret line="29" column="18" lean-forward="true" selection-start-line="29" selection-start-column="18" selection-end-line="29" selection-end-column="18" />
+        <state relative-caret-position="359">
+          <caret line="45" column="18" selection-start-line="45" selection-start-column="18" selection-end-line="45" selection-end-column="18" />
+          <folding>
+            <element signature="e#1007#1008#0" expanded="true" />
+            <element signature="e#1034#1035#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ir/mctab/java32/projects/scholarshipmanagement/features/scholarshipverification/impl/FindScholarshipByStudentUseCaseImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-92">
+          <caret line="23" column="45" selection-start-line="23" selection-start-column="45" selection-end-line="23" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ir/mctab/java32/projects/scholarshipmanagement/features/scholarshipverification/usecases/FindScholarshipByStudentUseCase.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="17" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ir/mctab/java32/projects/scholarshipmanagement/features/scholarshipverification/impl/FindScholarshipByManagerUseCaseImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="173">
+          <caret line="23" column="45" selection-start-line="23" selection-start-column="45" selection-end-line="23" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ir/mctab/java32/projects/scholarshipmanagement/features/scholarshipverification/impl/FindScholarshipBySupervisorUseCaseImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="20" column="45" selection-start-line="20" selection-start-column="45" selection-end-line="20" selection-end-column="45" />
+          <folding>
+            <element signature="e#984#997#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ir/mctab/java32/projects/scholarshipmanagement/model/Scholarship.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="201">
+          <caret line="162" column="23" selection-start-line="162" selection-start-column="23" selection-end-line="162" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files (x86)/Java/jdk1.8.0_172/src.zip!/java/lang/NumberFormatException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="224">
+          <caret line="64" selection-start-line="64" selection-end-line="64" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ir/mctab/java32/projects/scholarshipmanagement/features/scholarshipverification/usecases/RequestScholarshipByStudentUseCase.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" column="17" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ir/mctab/java32/projects/scholarshipmanagement/ScholarshipManagementApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="128">
+          <caret line="111" selection-start-line="111" selection-end-line="111" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ir/mctab/java32/projects/scholarshipmanagement/features/scholarshipverification/impl/RequestScholarshipByStudentUseCaseImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="325">
+          <caret line="77" lean-forward="true" selection-start-line="77" selection-end-line="77" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ir/mctab/java32/projects/scholarshipmanagement/features/scholarshipverification/usecases/DashboardByManager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="33" lean-forward="true" selection-start-line="2" selection-start-column="33" selection-end-line="2" selection-end-column="33" />
         </state>
       </provider>
     </entry>
