@@ -117,11 +117,26 @@ public class ScholarshipManagementApplication {
 
             //findScholarshipByUniversity
             if(command.equals("unilist")){
-                FindScholarshipByUniversityUseCase findScholarshipByUniversityUseCase = new FindScholarshipByUniversityUseCaseImpl();
+                FindScholarshipByUniversityUseCase findScholarshipByUniversityUseCase
+                        = new FindScholarshipByUniversityUseCaseImpl();
                 List<Scholarship> scholarships = findScholarshipByUniversityUseCase.listScholarships();
                 for (int i = 0; i < scholarships.size(); i++) {
                     System.out.println(scholarships.get(i));
                 }
+            }
+            //DashboardByManager
+            if (command.equals("mandash")) {
+                DashboardByManagerUseCase dashboardByManagerUseCase
+                        = new DashboardByManagerUseCaseImpl();
+                dashboardByManagerUseCase.dashboard();
+
+            }
+            //DashboardBySupervisor
+            if (command.equals("supdash")) {
+                DashboardBySupervisorUseCase dashboardBySupervisorUseCase
+                        = new DashboardBySupervisorUseCaseImpl();
+                dashboardBySupervisorUseCase.dashboard();
+
             }
 
             //log out
